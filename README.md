@@ -14,8 +14,11 @@
 ---
 
 ## 📱 App Screenshots
+<img width="371" height="647" alt="main" src="https://github.com/user-attachments/assets/4d2013a9-f154-4431-a8e8-7070a6978648" />
 
+<img width="371" height="647" alt="signup" src="https://github.com/user-attachments/assets/74c28021-f02f-4d65-8d59-99d039b14370" />
 
+<img width="371" height="647" alt="login" src="https://github.com/user-attachments/assets/f0ba871a-24fe-4d4d-8874-5a7231414d96" />
 
 ---
 
@@ -52,7 +55,7 @@
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Contributors
 
 **Ecem Şimşek**
 - GitHub: [@simsekecem](https://github.com/simsekecem)
