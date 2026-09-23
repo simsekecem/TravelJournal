@@ -59,8 +59,8 @@
 
 **Ecem Şimşek**
 - GitHub: [@simsekecem](https://github.com/simsekecem)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/simsekecem/)
+- LinkedIn: [linkedin.com/in/simsekecem](https://www.linkedin.com/in/simsekecem/)
 
 **Nida Elvin Mertoğlu**
 - GitHub: [@NidaElvinMertoglu](https://github.com/NidaElvinMertoglu/)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nidaelvinmertoglu/)
+- LinkedIn: [linkedin.com/in/nidaelvinmertoglu](https://www.linkedin.com/in/nidaelvinmertoglu/)
